@@ -1,18 +1,14 @@
-# Hack Apertus Liebefeld — `challenge name`, `team name`
+# Hack Apertus Zurich — Challenge Partner: ti&m
+`challenge name`, `team name`
 
 Template repository for [Hack Apertus](https://hackapertus.ch/) submissions.
 Every project keeps the same layout, so organizers and judges find the same
 things in the same place.
 
-There are 3 challenges to pick from:
-1. Bern Economic Development Agency: Research & Expertise Navigator
-2. OpenParlData: Topic classification for Swiss parliaments with Apertus
-3. University of Bern: Deciphering Archives with Apertus
-
 `One paragraph describing the challenge.`
 
 Submissions must use the v1.5 Apertus model family.
-The submission must comply with the [HackApertus T&C](https://hackapertus.ch/terms-and-conditions).
+The submission must comply with the [HackApertus T&C](https://hackapertus.ch/terms-and-conditions) and the [model and challenge requirements](https://hackapertus.notion.site/zurich-challenges-model-requirements)
 
 ## 🎯 The Challenge
 
@@ -21,7 +17,7 @@ The submission must comply with the [HackApertus T&C](https://hackapertus.ch/ter
 ## 🔧 Resources & Tools
 
 Check our resources & tools page for detailed information:
-[https://hackapertus.notion.site/liebefeld-resources-tools](https://hackapertus.notion.site/liebefeld-resources-tools)
+[Resources & Tools](https://hackapertus.notion.site/zurich-resources-tools)
 
 | Models           | URL                                      |
 |------------------|------------------------------------------|
@@ -71,20 +67,6 @@ The submission must:
 - Max. 2 min demo video of your prototype
 - Add the link to the **Demo** field at the top of [technical_report.md](technical_report.md)
 - Submit the URL of the video.
-
-## ⚖️ Judging Criteria
-
-Each challenge has its own criteria, listed in its challenge description.
-
-The main jury scores every submission on 6 dimensions (relevant for Top 6 teams):
-1. **Purposeful use of AI**
-2. **Technical rigour**
-3. **Value, cost & scalability**
-4. **Sovereign deployability**
-5. **Implementation feasibility**
-6. **Pitch & presentation**
-
-Each dimension is scored from 0 to 5.
 
 ## Getting started
 
