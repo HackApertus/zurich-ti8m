@@ -3,8 +3,9 @@
 A deeper write-up than the README: what you built, how it works, and what the
 numbers say.
 
+- **Challenge partner:** ti&m
 - **Challenge:** `challenge name`
-- **Event:** On-site Liebefeld
+- **Event:** On-site Zurich
 - **Team:** `team name` — `member`, `member`, `member`
 - **Demo:** `link to video`
 
