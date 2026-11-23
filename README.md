@@ -12,7 +12,7 @@ The submission must comply with the [HackApertus T&C](https://hackapertus.ch/ter
 
 ## 🎯 The Challenge
 
-`Fill in the title of the challenge you picked and link the Notion challenge page (URL)`
+"TrustRoom” – the customer’s own AI space in e-banking
 
 ## 🔧 Resources & Tools
 
